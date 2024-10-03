@@ -1,0 +1,18 @@
+body {
+  /* background-color: aquamarine;*/
+}
+h1 {
+  color: #c00;
+  font-size: 36px;
+}
+
+p {
+  color: rgb(103, 33, 33);
+  text-align: right;
+}
+
+/* ID sel */
+#promo {
+  background-color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
